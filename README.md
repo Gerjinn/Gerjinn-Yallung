@@ -12,7 +12,7 @@ Hi there! I’m a BS Information Technology student fueled by curiosity and a lo
 ---
 
 ## 📜 Certification
-- [SQL and Relational Databases 101](#)
+- [[SQL and Relational Databases 101](#)]
 
 ---
 
