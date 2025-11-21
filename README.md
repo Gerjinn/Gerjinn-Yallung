@@ -1,6 +1,6 @@
 # Hi there, I'm Gerjinn Yallung! 
 
-Welcome to my GitHub profile! I am a BS Information Technology student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
+Hi there! I’m a BS Information Technology student fueled by curiosity and a love for solving tech puzzles. I thrive on exploring programming, databases, and innovative tools that turn ideas into efficient, real-world solutions. Constant learning and creating meaningful projects are what keep me motivated in the ever-evolving world of technology.
 
 --- 
 
